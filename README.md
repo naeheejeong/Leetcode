@@ -24,6 +24,7 @@ Repository for recording LeetCode Algorithm problem solving
 | [1164-product-price-at-a-given-date](https://github.com/naeheejeong/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/naeheejeong/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/naeheejeong/Leetcode/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/naeheejeong/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/naeheejeong/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/naeheejeong/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/naeheejeong/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
