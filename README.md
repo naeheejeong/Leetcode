@@ -6,6 +6,7 @@ Repository for recording LeetCode Algorithm problem solving
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/naeheejeong/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0550-game-play-analysis-iv](https://github.com/naeheejeong/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/naeheejeong/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/naeheejeong/Leetcode/tree/master/0577-employee-bonus) |
