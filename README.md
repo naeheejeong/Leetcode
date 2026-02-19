@@ -61,4 +61,5 @@ Repository for recording LeetCode Algorithm problem solving
 | [1907-count-salary-categories](https://github.com/naeheejeong/Leetcode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/naeheejeong/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/naeheejeong/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/naeheejeong/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 <!---LeetCode Topics End-->
