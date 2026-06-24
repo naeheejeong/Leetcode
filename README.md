@@ -69,4 +69,5 @@ Repository for recording LeetCode Algorithm problem solving
 | [3465-find-products-with-valid-serial-numbers](https://github.com/naeheejeong/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/naeheejeong/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
 | [3580-find-consistently-improving-employees](https://github.com/naeheejeong/Leetcode/tree/master/3580-find-consistently-improving-employees) |
+| [3586-find-covid-recovery-patients](https://github.com/naeheejeong/Leetcode/tree/master/3586-find-covid-recovery-patients) |
 <!---LeetCode Topics End-->
