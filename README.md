@@ -65,6 +65,7 @@ Repository for recording LeetCode Algorithm problem solving
 | [1907-count-salary-categories](https://github.com/naeheejeong/Leetcode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/naeheejeong/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/naeheejeong/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3220-odd-and-even-transactions](https://github.com/naeheejeong/Leetcode/tree/master/3220-odd-and-even-transactions) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/naeheejeong/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3570-find-books-with-no-available-copies](https://github.com/naeheejeong/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
 | [3580-find-consistently-improving-employees](https://github.com/naeheejeong/Leetcode/tree/master/3580-find-consistently-improving-employees) |
