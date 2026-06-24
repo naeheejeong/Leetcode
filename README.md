@@ -70,4 +70,5 @@ Repository for recording LeetCode Algorithm problem solving
 | [3570-find-books-with-no-available-copies](https://github.com/naeheejeong/Leetcode/tree/master/3570-find-books-with-no-available-copies) |
 | [3580-find-consistently-improving-employees](https://github.com/naeheejeong/Leetcode/tree/master/3580-find-consistently-improving-employees) |
 | [3586-find-covid-recovery-patients](https://github.com/naeheejeong/Leetcode/tree/master/3586-find-covid-recovery-patients) |
+| [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/naeheejeong/Leetcode/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 <!---LeetCode Topics End-->
