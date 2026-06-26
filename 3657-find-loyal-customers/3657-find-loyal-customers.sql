@@ -5,8 +5,7 @@
 WITH a as (select distinct customer_id,
 max(transaction_date) as max_date,
 min(transaction_date) as min_date,
--- timestampdiff('day', 시작날짜, 끝나는 날짜),
--- timestampdiff('day', min(transaction_date), max(transaction_date) )
+-- timestampdiff('day', 시작날짜, 끝나는 날짜) / datediff(시작날짜, 끝나는 날짜)
 SUM(case when transaction_type = 'refund' THEN 1 ELSE 0 END ) / COUNT(transaction_id)  as refund_rate
 from customer_transactions 
 group by customer_id
